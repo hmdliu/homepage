@@ -51,6 +51,7 @@ Researchers: \
 \>\> [Victor Wang | 王泽诚](https://victor-wang-902.github.io/) \
 \>\> [Yuanhe Guo | 郭元和](https://ricercarg.github.io/) \
 \>\> [Yuxuan Xia | 夏雨轩](https://cs.shanghai.nyu.edu/phd-students/yuxuan-xia-xiayuxuan) \
+\>\> [Jolia Chen | 陈卓然](https://joliachen.github.io/) \
 \>\> [Xinhao Liu | 刘歆昊](https://gaaaavin.github.io/) \
 \>\> [Wenbo Lu | 陆文博](https://wenboluu.github.io/) \
 \>\> [Bale Chen | 陈丙森](https://balechen.github.io/) \
